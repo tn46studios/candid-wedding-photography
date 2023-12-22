@@ -1,1 +1,0 @@
-# candid-wedding-photography

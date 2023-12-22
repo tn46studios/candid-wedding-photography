@@ -1,5 +1,7 @@
 
 ajax/loadmore.html
+*.html
+ajax/loadmore.html
 ajax/loadmore2.html
 ajax/loadmore3.html
 ajax/loadmore4.html
